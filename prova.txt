@@ -1,0 +1,5 @@
+prova,2023-09-10,10:00,60,Giorgio,Milano
+prova,2023-09-11,11:30,30,Valentina,Roma
+prova,2023-09-12,14:45,45,Marco,Napoli
+prova,2023-09-13,16:15,30,Sara,Firenze
+prova,2023-09-14,15:30,60,Paolo,Venezia

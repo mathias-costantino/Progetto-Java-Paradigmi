@@ -1,0 +1,10 @@
+Work,2023-09-11,11:30,30,Valentina,Roma
+Work,2023-09-12,14:45,45,Marco,Napoli
+Work,2023-09-13,16:15,30,Sara,Firenze
+Work,2023-09-14,15:30,60,Paolo,Venezia
+Work,2023-09-11,12:00,60,Giorgio,Milano
+Accademia,2023-09-10,16:00,60,Francesca,Venezia
+Accademia,2023-09-11,19:30,30,Roberto,Bologna
+Upo,2023-11-01,10:00,60,Anna,Milano
+Upo,2023-11-01,11:00,30,Mathias,Novara
+Upo,2023-11-02,09:00,60,Lorenzo,Como

@@ -1,0 +1,3 @@
+Upo,2023-11-01,10:00,60,Anna,Milano
+Upo,2023-11-01,11:00,30,Mathias,Novara
+Upo,2023-11-02,09:00,60,Lorenzo,Como
